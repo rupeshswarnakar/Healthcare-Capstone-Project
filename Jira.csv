@@ -1,0 +1,10 @@
+﻿Issue Type,Issue key,Issue id,Summary,Assignee,Assignee Id,Reporter,Reporter Id,Priority,Status,Resolution,Created,Updated,Due date
+Story,HEAL-1,10084,Documentation,,,Rupesh Swarnakar,712020:5805bc07-8466-4f77-8fdd-bfc80c308ec2,Medium,In Progress,,23/Apr/26 1:53 PM,23/Apr/26 1:56 PM,
+Subtask,HEAL-2,10086,Draft project requirements document,Rupesh Swarnakar,712020:5805bc07-8466-4f77-8fdd-bfc80c308ec2,Rupesh Swarnakar,712020:5805bc07-8466-4f77-8fdd-bfc80c308ec2,Medium,To Do,,23/Apr/26 1:53 PM,23/Apr/26 1:55 PM,
+Subtask,HEAL-3,10088,Develop solution design documentation,Rupesh Swarnakar,712020:5805bc07-8466-4f77-8fdd-bfc80c308ec2,Rupesh Swarnakar,712020:5805bc07-8466-4f77-8fdd-bfc80c308ec2,Medium,To Do,,23/Apr/26 1:53 PM,23/Apr/26 1:55 PM,
+Story,HEAL-4,10089,Implementation,,,Rupesh Swarnakar,712020:5805bc07-8466-4f77-8fdd-bfc80c308ec2,Medium,To Do,,23/Apr/26 2:01 PM,23/Apr/26 2:01 PM,
+Subtask,HEAL-8,10097,Raw Data Ingestion in AWS S3,Rupesh Swarnakar,712020:5805bc07-8466-4f77-8fdd-bfc80c308ec2,Rupesh Swarnakar,712020:5805bc07-8466-4f77-8fdd-bfc80c308ec2,Medium,To Do,,23/Apr/26 2:03 PM,23/Apr/26 2:04 PM,
+Subtask,HEAL-5,10091,Clean and transform data for Silver layer,Rupesh Swarnakar,712020:5805bc07-8466-4f77-8fdd-bfc80c308ec2,Rupesh Swarnakar,712020:5805bc07-8466-4f77-8fdd-bfc80c308ec2,Medium,To Do,,23/Apr/26 2:02 PM,23/Apr/26 2:04 PM,
+Subtask,HEAL-6,10093,Create dimension and fact tables for Gold layer,Rupesh Swarnakar,712020:5805bc07-8466-4f77-8fdd-bfc80c308ec2,Rupesh Swarnakar,712020:5805bc07-8466-4f77-8fdd-bfc80c308ec2,Medium,To Do,,23/Apr/26 2:02 PM,23/Apr/26 2:04 PM,
+Subtask,HEAL-7,10095,Load Gold layer tables into Redshift,Rupesh Swarnakar,712020:5805bc07-8466-4f77-8fdd-bfc80c308ec2,Rupesh Swarnakar,712020:5805bc07-8466-4f77-8fdd-bfc80c308ec2,Medium,To Do,,23/Apr/26 2:02 PM,23/Apr/26 2:04 PM,
+Subtask,HEAL-9,10099,SQL Query in Redshift for Output result,Rupesh Swarnakar,712020:5805bc07-8466-4f77-8fdd-bfc80c308ec2,Rupesh Swarnakar,712020:5805bc07-8466-4f77-8fdd-bfc80c308ec2,Medium,To Do,,23/Apr/26 4:02 PM,23/Apr/26 4:02 PM,
